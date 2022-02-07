@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m interested in collaborating on small python projects
-- 📫 How to reach me: Discord: good 'ol capn gregor#2144
+- 📫 How to reach me: Discord: \_\_init__.py#2144
 
 <!---
 User0332/User0332 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
